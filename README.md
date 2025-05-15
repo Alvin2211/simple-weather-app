@@ -27,7 +27,7 @@ A simple weather application built with React that provides real-time weather up
 
 * **React.js** for building the user interface.
 * **Axios/Fetch API** for making API requests.
-* **CSS/Styled Components/Tailwind** for styling.
+* **Tailwind** for styling.
 * **Environment Variables** for API key management.
 
 ---
